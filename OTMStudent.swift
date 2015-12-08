@@ -15,7 +15,7 @@ struct OTMStudent{
     var latitude : Float = 0.0
     var longtitude : Float = 0.0
     var mapString = ""
-    var mediaURL = "" //mediaURL
+    var mediaURL = ""  //mediaURL
     var uniqueKey = ""
 
     init(dictionary: [String : AnyObject]) {
